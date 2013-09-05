@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>myInt</key>
+	<integer>10</integer>
+	<key>myInteger</key>
+	<integer>20</integer>
+	<key>myFloat</key>
+	<real>0.5</real>
+	<key>myDouble</key>
+	<real>13.4</real>
+	<key>myUnsignedInt</key>
+	<integer>123</integer>
+	<key>myUnsignedInteger</key>
+	<string>321</string>
+	<key>myLong</key>
+	<string>1238</string>
+	<key>myLongLong</key>
+	<string>91231</string>
+	<key>myUnsignedLong</key>
+	<string>5124215</string>
+	<key>myUnsignedLongLong</key>
+	<string>9123981239821</string>
+	<key>myBool</key>
+	<integer>1</integer>
+	<key>mySize</key>
+	<string>-200 x 50</string>
+	<key>myPoint</key>
+	<string>0.50 , 10</string>
+	<key>myRect</key>
+	<string>10, 20, 300, 400</string>
+	<key>myEdgeInsets</key>
+	<string>0 , 10 , 4 , 10</string>
+	<key>myOffset</key>
+	<string>5, 25</string>
+	<key>myString</key>
+	<string>This rocks!</string>
+	<key>myDate</key>
+	<date>2013-09-05T19:08:04Z</date>
+	<key>myImage</key>
+	<string>colosseum.jpg</string>
+	<key>myStretchableImage</key>
+	<string>colosseum.jpg 5, 5</string>
+	<key>myResizableImage</key>
+	<string>colosseum.jpg 5, 10, 10, 5</string>
+	<key>myHexColor</key>
+	<string>#ff0000ff</string>
+	<key>myRGBColor</key>
+	<string>255, 0, 255</string>
+	<key>myRGBAColor</key>
+	<string>255, 128, 255, 0.25</string>
+</dict>
+</plist>
